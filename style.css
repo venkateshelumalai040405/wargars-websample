@@ -1,0 +1,124 @@
+body{
+    background-color: darkblue;
+   
+}
+
+.div{
+    
+    background-color:rgb(89, 136, 255);
+    background-origin: padding-box;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100px;
+}
+
+
+
+header{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color:rgb(89, 136, 255);
+    justify-content: space-between;
+    display: flex;
+}
+
+
+#logo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(198, 199, 210);
+    font-weight: 700;
+    font-size:50px;
+}
+
+.menubar>ul{
+    align-items: center;
+    display: flex;
+}
+
+.menubar>ul>li{
+    padding-left: 20px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+
+.active{
+    color: rgb(0, 0, 0);
+}
+
+#image{
+  width: 70px;height: 70px;
+  border-radius: 70px;
+}
+
+#img{
+  height: 600px;width: 1000px;
+  padding: 10px;
+  border-width: solid;
+  margin: 10px;
+}
+
+
+
+
+.img{
+    height: 500px;width: 500px;
+    border-radius: 400px;
+}
+
+h2{
+   color: rgb(238, 248, 248);
+}
+c{
+   color: darkred;
+   font-family: 'REM', sans-serif; 
+}
+
+
+#col{
+padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: darkcyan;
+    background-color: rgb(33, 33, 51);
+    font-family: 'Montserrat', sans-serif;
+}
+    
+#logoimg{
+    height: 50px; width: 50px;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+.contact{
+    padding: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: darkcyan;
+    background-color: rgb(33, 33, 51);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+colo,h3{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
